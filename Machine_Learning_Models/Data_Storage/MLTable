@@ -1,6 +1,0 @@
-paths:
-  - file: azureml://datastores/aml_datastore/paths/diabetes-data/*.csv
-
-transformations:
-  - read_delimited:
-      delimiter: ","
