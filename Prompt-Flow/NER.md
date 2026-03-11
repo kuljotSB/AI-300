@@ -27,3 +27,7 @@ cleaned_parts = [part.strip(" \t.\"") for part in parts]
 entities = [part for part in cleaned_parts if len(part) > 0]
 return entities
 ```
+
+Final Prompt Flow should look like this:
+
+![NER_prompt_flow](./Images/NER_prompt_flow.png)
