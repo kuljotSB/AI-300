@@ -1,5 +1,7 @@
 ### RAG Pipeline with Prompt Flow
 
+![rag-prompt-flow-arch](../Images/rag-prompt-flow-arch.png)
+
 Generation LLM Component Prompt:
 ```yaml
 system:
